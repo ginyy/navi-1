@@ -1,0 +1,20 @@
+19
+42C:\Users\sieh\Desktop\navi-1\src\style.css132899706500260000 0
+41C:\Users\sieh\Desktop\navi-1\package.json132902546346971061 0
+39C:\Users\sieh\Desktop\navi-1\.gitignore132902540500651544 0
+33C:\Users\sieh\Desktop\navi-1\dist132902540804505983 1
+34C:\Users\sieh\Desktop\navi-1\.idea132902546347961085 1
+39C:\Users\sieh\Desktop\navi-1\src\images132902535994967876 1
+32C:\Users\sieh\Desktop\navi-1\src132902538531798699 1
+43C:\Users\sieh\Desktop\navi-1\src\index.html132899706500250000 0
+40C:\Users\sieh\Desktop\navi-1\src\main.js132899706500250000 0
+52C:\Users\sieh\Desktop\navi-1\src\images\bilibili.png132899706500250000 0
+52C:\Users\sieh\Desktop\navi-1\dist\index.5fdcd06f.css132902540804366690 0
+56C:\Users\sieh\Desktop\navi-1\dist\index.5fdcd06f.css.map132902540804436194 0
+51C:\Users\sieh\Desktop\navi-1\dist\index.c7a51cc3.js132902540804366690 0
+55C:\Users\sieh\Desktop\navi-1\dist\index.c7a51cc3.js.map132902540804436194 0
+44C:\Users\sieh\Desktop\navi-1\dist\index.html132902540804366690 0
+45C:\Users\sieh\Desktop\navi-1\.idea\.gitignore132902536167212965 0
+46C:\Users\sieh\Desktop\navi-1\.idea\modules.xml132902536164397599 0
+48C:\Users\sieh\Desktop\navi-1\.idea\workspace.xml132902546347981029 0
+45C:\Users\sieh\Desktop\navi-1\.idea\navi-1.iml132902536164247999 0
